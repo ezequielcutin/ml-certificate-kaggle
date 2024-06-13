@@ -54,7 +54,7 @@ You can install the required libraries using the following command:
 pip install pandas scikit-learn matplotlib
 ```
 
-## acknowledgements
+## Acknowledgements
 
 I would like to thank Kaggle for providing this comprehensive and beginner-friendly course on machine learning.
 
